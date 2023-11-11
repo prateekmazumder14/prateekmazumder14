@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prateekmazumder14
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning PHP,HTML,CSS,JavaScript
+- 👀 Currenly Working as a Web Developer
+- 🌱 I’m currently working on PHP,HTML,CSS,JavaScript and Shopify
 - 💞️ I’m looking to collaborate to learn new things
 - 📫 You can find me on Instagram @thatrandomguy1499
 
